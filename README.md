@@ -73,6 +73,25 @@ Total cost  = Input cost + Output cost
 
 Actual costs depend on the selected model, provider pricing, and usage. Estimates are only as accurate as the configured prices.
 
+## 📸 Project Screenshots
+
+### 1. LLM Chatbot Interface
+
+![LLM Chatbot](screenshots/llm_chatbot.png)
+
+### 2. LangSmith Tracing
+
+![LangSmith Tracing](screenshots/langsmith_tracing.png)
+
+### 3. LLM Cost Estimation
+
+![Cost Estimation](screenshots/cost_summary.png)
+
+### 4. Power BI Dashboard
+
+![Power BI Dashboard](screenshots/dashboard.png)
+
+
 ## Limitations
 * Power BI may require a manual refresh to display new CSV records.
 * Cost values are estimates based on configured token prices.

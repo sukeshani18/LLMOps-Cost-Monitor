@@ -77,7 +77,7 @@ Actual costs depend on the selected model, provider pricing, and usage. Estimate
 
 ### 1. LLM Chatbot Interface
 
-![LLM Chatbot](Screenshots/llm_chatbot.png)
+![LLM Chatbot](Screenshots/ot.png)
 
 ### 2. LangSmith Tracing
 

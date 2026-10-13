@@ -77,19 +77,19 @@ Actual costs depend on the selected model, provider pricing, and usage. Estimate
 
 ### 1. LLM Chatbot Interface
 
-![LLM Chatbot](screenshots/llm_chatbot.png)
+![LLM Chatbot](Screenshots/llm_chatbot.png)
 
 ### 2. LangSmith Tracing
 
-![LangSmith Tracing](screenshots/langsmith_tracing.png)
+![LangSmith Tracing](Screenshots/langsmith_tracing.png)
 
 ### 3. LLM Cost Estimation
 
-![Cost Estimation](screenshots/cost_summary.png)
+![Cost Estimation](Screenshots/cost_summary.png)
 
 ### 4. Power BI Dashboard
 
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](Screenshots/dashboard.png)
 
 
 ## Limitations

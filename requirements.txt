@@ -1,0 +1,5 @@
+langsmith
+python-dotenv
+pandas
+streamlit
+groq
